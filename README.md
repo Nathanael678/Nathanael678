@@ -1,19 +1,21 @@
-🌟 Sobre mim
-👋 Olá! Meu nome é Nathanael Alves Rodrigues, e estou começando minha jornada na área de programação. Sou apaixonado por tecnologia e estou animado para aprender, construir e compartilhar projetos.
+Olá, eu sou o Nathanael Alves! 👋
+Sou um desenvolvedor em início de carreira, apaixonado por transformar lógica em soluções reais através da tecnologia. Atualmente, foco meus estudos no ecossistema Web e em Automação, buscando constantemente as melhores práticas de desenvolvimento.
 
-🚀 O que estou aprendendo
-Atualmente, estou estudando Python e explorando React.
-Tenho interesse em desenvolvimento web e automação.
+🚀 Sobre Mim
+🌱 Atualmente aprofundando conhecimentos em Python e React.
 
-🎯 Meus objetivos
-Aprender algo novo todos os dias.
-Contribuir para projetos open source e colaborar com a comunidade.
-Desenvolver projetos que resolvam problemas do mundo real.
+🎯 Objetivo: Colaborar em projetos de código aberto e desenvolver aplicações que facilitem o dia a dia das pessoas.
 
-📚 Meus repositórios
-Aqui você encontrará projetos pessoais, exercícios de aprendizado e ideias em que estou trabalhando.
+💡 Acredito no aprendizado contínuo e na troca de experiências com a comunidade.
 
-🌱 Sempre em crescimento
-Adoro receber dicas e feedback! Se você quiser trocar ideias ou colaborar em algum projeto, fique à vontade para me chamar.
+🛠️ Tecnologias e Ferramentas
+Linguagens: Python (Estudando)
 
-📫 Entre em contato: Nathanaelalves786@gmail.com
+Front-end: React, HTML5, CSS3
+
+Interesses: Automação de processos, Desenvolvimento Web e Lógica de Programação.
+
+📬 Vamos conversar?
+📧 E-mail: Nathanaelalves786@gmail.com
+
+💼 www.linkedin.com/in/nathanaelalves077
