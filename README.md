@@ -17,11 +17,11 @@ Busco constantemente evoluir minhas habilidades técnicas e aplicar boas prátic
 
 ## Tecnologias e Ferramentas
 
-- Linguagens: Python  
+- Linguagens: Python, JAVA, SQL, JS, PHP.
 - Banco de dados: MySQL  
 - Desenvolvimento Web: HTML5, CSS3  
-- Ferramentas: Git, GitHub  
-- Interesses: automação, análise de dados, scripts e eficiência operacional  
+- Ferramentas: Git, GitHub, VScode, Figma.
+- Interesses: automação, análise de dados, scripts e eficiência operacional.
 
 ## Contato
 
