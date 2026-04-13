@@ -1,21 +1,29 @@
-Olá, eu sou o Nathanael Alves! 👋
-Sou um desenvolvedor em início de carreira, apaixonado por transformar lógica em soluções reais através da tecnologia. Atualmente, foco meus estudos no ecossistema Web e em Automação, buscando constantemente as melhores práticas de desenvolvimento.
+# Nathanael Alves
 
-🚀 Sobre Mim
-🌱 Atualmente aprofundando conhecimentos em Python e React.
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em automação de processos e análise de dados. Tenho interesse em utilizar a tecnologia para resolver problemas práticos, otimizar tarefas repetitivas e extrair insights a partir de dados.
 
-🎯 Objetivo: Colaborar em projetos de código aberto e desenvolver aplicações que facilitem o dia a dia das pessoas.
+## Sobre mim
 
-💡 Acredito no aprendizado contínuo e na troca de experiências com a comunidade.
+Atualmente, estou aprofundando meus conhecimentos em Python, com ênfase em automação e manipulação de dados. Também possuo experiência com desenvolvimento web, o que me permite entender sistemas de forma mais completa, desde a interface até o processamento de dados.
 
-🛠️ Tecnologias e Ferramentas
-Linguagens: Python (Estudando)
+Busco constantemente evoluir minhas habilidades técnicas e aplicar boas práticas no desenvolvimento de soluções eficientes e escaláveis.
 
-Front-end: React, HTML5, CSS3
+## Objetivos
 
-Interesses: Automação de processos, Desenvolvimento Web e Lógica de Programação.
+- Atuar com automação de processos e análise de dados  
+- Desenvolver soluções que aumentem a produtividade e reduzam tarefas manuais  
+- Participar de projetos que envolvam coleta, tratamento e visualização de dados  
+- Contribuir com projetos práticos e colaborativos  
 
-📬 Vamos conversar?
-📧 E-mail: Nathanaelalves786@gmail.com
+## Tecnologias e Ferramentas
 
-💼 www.linkedin.com/in/nathanaelalves077
+- Linguagens: Python  
+- Banco de dados: MySQL  
+- Desenvolvimento Web: HTML5, CSS3  
+- Ferramentas: Git, GitHub  
+- Interesses: automação, análise de dados, scripts e eficiência operacional  
+
+## Contato
+
+- Email: Nathanaelalves786@gmail.com  
+- LinkedIn: www.linkedin.com/in/nathanaelalves077
